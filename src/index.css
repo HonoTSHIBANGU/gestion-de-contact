@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  /* .form1{
+    background-color: rgba(0, 0, 255, 0.429);
+    width: 400px;
+    height: 400px;
+    
+}   */
+
+
+body{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    /* place-items: center; */
+    min-width: 320px;
+    min-height: 100vh;
+    position: relative;
+    left:600px;
+}
